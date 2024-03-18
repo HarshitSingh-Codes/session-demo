@@ -2,8 +2,8 @@
 ***
 
 ## Table content content
-1. []()
-2. []()
+1. [headin 2](#heading-2)
+2. [heading 3](#heading-3)
 ***
 
 ## heading 2
